@@ -1,6 +1,7 @@
 from loadData import loadList
 '''
     Decrease and conquer
+    Stable sort
     for worst case - O(n^2)
     - iterate through the array with one pointer which act as a pivot pointer
     - The point before the pivot pointer should be sorted each time

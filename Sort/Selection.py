@@ -1,6 +1,7 @@
 from loadData import loadList
 '''
     Brute force
+    stable sort
     for best n worst case - O(n^2)
     - iterate thorugh each element and find the minimum and put it in front
 '''
